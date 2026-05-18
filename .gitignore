@@ -1,0 +1,18 @@
+# Environments
+venv/
+env/
+.env
+
+# Mac system files
+.DS_Store
+
+# Data & Models (Do not push massive files to GitHub)
+data/raw/
+models/*.pkl
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# MLflow Tracking
+mlruns/
