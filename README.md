@@ -437,7 +437,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-Built with ❤️ by [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Built with ❤️ by [AyuuRaj](https://github.com/AyuuRaj)
 
 ⭐ **Star this repo** if you found it useful!
 
